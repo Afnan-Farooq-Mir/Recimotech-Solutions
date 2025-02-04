@@ -1,0 +1,6 @@
+instructor_id,full_name,email,phone,expertise,salary
+1,Instructor_1,instructor1@email.com,9876543535,Coding,49528
+2,Instructor_2,instructor2@email.com,9876549588,Coding,57479
+3,Instructor_3,instructor3@email.com,9876546984,Productivity,44216
+4,Instructor_4,instructor4@email.com,9876554600,Productivity,36175
+5,Instructor_5,instructor5@email.com,9876523944,Security,49832

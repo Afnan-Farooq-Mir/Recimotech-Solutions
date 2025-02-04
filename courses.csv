@@ -1,0 +1,11 @@
+course_id,course_name,category,duration_weeks,fees
+1,Python Programming,Coding,8,10000
+2,SQL Mastery,Database,6,8000
+3,Power BI for Business,Data Science,5,12000
+4,UI/UX Design,Design,10,15000
+5,Content Writing,Marketing,4,7000
+6,Digital Marketing,Marketing,6,9000
+7,Web Development,Coding,12,18000
+8,Machine Learning,Data Science,10,20000
+9,Cyber Security,Security,8,16000
+10,Excel for Business,Productivity,5,5000
